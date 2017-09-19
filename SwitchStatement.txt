@@ -1,0 +1,35 @@
+Switch statements are similar to if statements. 
+starts with
+		switch(variable comparing)
+{
+	case type:
+		print(something)
+		break;
+	}
+break; is a jump statement
+break is used in switches and loops
+default:
+		print(anyhthing not already thought included in other cases)
+If statements can be rewritten as switch statements
+if else can be replaced with a case
+else can be replaced with default
+You can join multiple case statements together
+	case 1:
+	case 2:
+	case 3:
+		Print("Your number is {0}", UserNumber);
+Syntax for a switch statement:
+		switch(variable)
+		{
+		case:
+			statements;
+			break;
+
+		case:
+			statements;
+			break;
+
+		default:
+			statements;
+			break;
+		}
