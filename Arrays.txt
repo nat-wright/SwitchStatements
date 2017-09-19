@@ -1,0 +1,12 @@
+Arrays are a way to store a collection of ints together.
+int[]
+an array uses open and close brackets []
+type[] nameOfArray = new type[number of elements];
+nameOfArray[index of element to access] = value;
+index of an element is an integer with the first index being zero
+first element = index 0
+second element = index 1
+a way to wite the array in one line:
+	type[] nameOfArray = {value, value, value, value, value};
+Arrays work really well with loops
+The default value of a numeric array is zero and reference elements are set to null
