@@ -1,0 +1,18 @@
+A while loop is basically a repeating if statement.
+A while loop can count numbers
+int i = 1;
+	while (condition) 
+	{
+		Console.WriteLine (i);
+		i++;
+	}
+if a while loop does not include an increment then the loop will continue forever
+a while loop starts with while
+while()
+	{
+	}
+++ means add 1 to the original number
+(int >,<,<=,=<,!= int)
+break is important to get out of the loop without performing the whole condition
+A while loop repeats a section of code while a certain condition is specified and seen as true
+Condition goes inside parenthesis after while
